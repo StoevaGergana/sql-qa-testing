@@ -6,4 +6,4 @@ MySQL-Workbench-Queries is a practical collection of databases and SQL queries b
 
 📊 Aggregations and sorting
 
-⚙️ Real-world scenarios and examples
+
